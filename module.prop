@@ -1,12 +1,6 @@
 id=lhroot_openrc
-
 name=lhroot OpenRC
-
 version=v1
-
 versionCode=1
-
 author=npdk
-
 description=Initialize OpenRC init for the default lhroot rootfs instance.
-
